@@ -1,0 +1,17 @@
+commit 59f9679ee6bd687b1c92b3e1119e02ae2138d209
+Author: ArunPathak <arunpathak241994@gmail.com>
+Date:   Sun Jan 5 00:17:44 2020 +0530
+
+    added gitignore
+
+commit 8abae38c92ceeb7d2ff1eae7891b579374791d94
+Author: ArunPathak <arunpathak241994@gmail.com>
+Date:   Sat Jan 4 22:25:10 2020 +0530
+
+    added 2 new
+
+commit 855160e146a7f4d518f2da18fe338058a6fabe2a
+Author: ArunPathak <arunpathak241994@gmail.com>
+Date:   Sat Jan 4 22:19:09 2020 +0530
+
+    added readme.txt
